@@ -1,6 +1,28 @@
 img {
   display: none;
 }
-.bottle-see {
+#bottle-see {
   display: none;
+}
+#wallet-here {
+  display: none;
+
+}
+p {
+  cursor: pointer;
+  color: #0088cc;
+}
+/* p:hover {
+  text-decoration: underline;
+} */
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+.clickable:hover {
+  text-decoration: underline;
+}
+
+#wallet-here:hover {
+  text-decoration: underline;
 }
